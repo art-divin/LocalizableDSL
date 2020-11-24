@@ -1,0 +1,7 @@
+"MyClass.content.textLabel.text" = "hello there";
+"MyClass.content.passwordLabel.text" = "password";
+"AnotherClass.content.textLabel.text" = "hello there";
+"ThirdClass.content.passwordLabel.text" = "password";
+"ThirdClass.content.loginLabel.text" = "login";
+"ThirdClass.generalLabel.text" = "general label";
+"AnotherClass.content.passwordField.placeholder" = "enter your password";

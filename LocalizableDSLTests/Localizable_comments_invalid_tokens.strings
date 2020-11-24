@@ -1,0 +1,13 @@
+"MyClass.content.textLabel.text" = "hello there";
+"MyClass.content.passwordLabel.text" = "password";
+"AnotherClass.content.textLabel.text" = "hello there";
+"ThirdClass.content.passwordLabel.text" = "password";
+/* another comment
+ multiline!
+"yes"
+ **/
+"ThirdClass.content.loginLabel.text" = "login";
+"ThirdClass.generalLabel.text" = "general label";
+// some comment
+"AnotherClass.content.passwordField.placeholder" = "Title of the Window";
+
